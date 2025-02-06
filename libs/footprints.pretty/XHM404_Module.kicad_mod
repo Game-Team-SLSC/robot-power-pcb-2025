@@ -78,6 +78,32 @@
 		(layer "F.SilkS")
 		(uuid "1f38896f-ecd9-4c18-ad32-a28229aabb0c")
 	)
+	(fp_text user "XH-M404"
+		(at 28.25 21.25 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "4f2dae81-c4f2-44cc-b597-84a2c6142a6b")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify left bottom)
+		)
+	)
+	(fp_text user "In -> Out"
+		(at 28.75 22.75 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "b8f4cc01-9bfa-4c4d-b52b-5c1126f6078c")
+		(effects
+			(font
+				(size 0.8 0.8)
+				(thickness 0.1)
+			)
+			(justify left bottom)
+		)
+	)
 	(fp_text user "${REFERENCE}"
 		(at -5.5 4.25 0)
 		(unlocked yes)
