@@ -5033,52 +5033,6 @@
 		)
 		(uuid "fd0e79c7-5cfd-47f3-bbcf-641a1e36c59c")
 	)
-	(netclass_flag ""
-		(length 2.54)
-		(shape round)
-		(at 100.33 106.68 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "abca94cc-0329-4899-a746-93d2a09fbe79")
-		(property "Netclass" "2A"
-			(at 101.0285 109.22 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(italic yes)
-				)
-				(justify left)
-			)
-		)
-	)
-	(netclass_flag ""
-		(length 2.54)
-		(shape round)
-		(at 25.4 105.41 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "af6344e2-0484-44d7-b585-3f227453052f")
-		(property "Netclass" "2A"
-			(at 26.0985 107.95 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(italic yes)
-				)
-				(justify left)
-			)
-		)
-	)
 	(symbol
 		(lib_id "power:GND")
 		(at 53.34 24.13 90)
